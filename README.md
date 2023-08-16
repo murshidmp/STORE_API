@@ -25,9 +25,6 @@ Store API is a backend application built using Node.js, Express.js, and MongoDB 
 
 The project follows a well-organized structure with modular components for better maintainability and scalability.
 
-go
-
-Copy code
 
 
 ```
@@ -65,9 +62,7 @@ Store_API/
 1. Clone this repository to your local machine.
 2. Navigate to the project directory and install the dependencies:
 
-bash
 
-Copy code
 
 
 ```
@@ -86,8 +81,6 @@ To run the Store API application, follow these steps:
 
 env
 
-Copy code
-
 
 ```
 MONGO_URI=your-mongodb-connection-string
@@ -101,9 +94,7 @@ Replace `your-mongodb-connection-string` with your actual MongoDB connection str
 
 1. Start the application:
 
-bash
 
-Copy code
 
 
 ```
@@ -135,9 +126,7 @@ To populate the database with sample product data, you can use the `populate.js`
 
 To populate the database, run:
 
-bash
 
-Copy code
 
 
 ```
