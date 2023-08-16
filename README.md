@@ -8,17 +8,17 @@ Store API is a backend application built using Node.js, Express.js, and MongoDB 
 
 
 
-* [Project Structure](https://chat.openai.com/#project-structure)
-* [Getting Started](https://chat.openai.com/#getting-started)
-    * [Installation](https://chat.openai.com/#installation)
-    * [Running the Application](https://chat.openai.com/#running-the-application)
-* [API Routes](https://chat.openai.com/#api-routes)
-* [Database Connectivity](https://chat.openai.com/#database-connectivity)
-* [Populating the Database](https://chat.openai.com/#populating-the-database)
-* [Error Handling](https://chat.openai.com/#error-handling)
-* [Configuration](https://chat.openai.com/#configuration)
-* [Contributing](https://chat.openai.com/#contributing)
-* [License](https://chat.openai.com/#license)
+* [Project Structure](#project-structure)
+* [Getting Started](#getting-started)
+    * [Installation](#installation)
+    * [Running the Application](#running-the-application)
+* [API Routes](#api-routes)
+* [Database Connectivity](#database-connectivity)
+* [Populating the Database](#populating-the-database)
+* [Error Handling](#error-handling)
+* [Configuration](#configuration)
+* [Contributing](#contributing)
+* [License](#license)
 
 
 ## **Project Structure**
